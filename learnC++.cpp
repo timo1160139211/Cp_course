@@ -51,7 +51,7 @@ class Coordinate{
         int m_iX;
         int m_iY;
 
-}
+};
 
 
 /////////////////Coordinate.cpp///////////////////////////
